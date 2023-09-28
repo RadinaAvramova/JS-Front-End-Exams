@@ -1,0 +1,20 @@
+Active job offers:
+
+Front-end Developer
+Software University
+We're seeking a Front-End Developer to join our ongoing quest to create the most epic, innovative sales management solution around.
+
+Java Developer
+Codexio
+We're seeking a Java Developer to join our ongoing quest to create the most epic, innovative sales management solution around.
+
+PHP Developer
+XS Software
+We're seeking a PHP Developer to join our ongoing quest to create the most epic, innovative sales management solution around.
+
+Create offer:
+Position name: 
+Example: Front-end Developer
+Company: 
+Example: Software University
+Description: 
